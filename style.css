@@ -1,0 +1,392 @@
+body {
+  margin: 5% 10%;
+  padding: 0;
+  background-color: hsl(210, 46%, 95%);
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+@media screen and (max-width:700px) {
+  body {
+    margin: 20% 15%;
+  }
+
+  #p-3-id {
+    font-size: large;
+    line-height: 1.5rem;
+    margin: 0;
+  }
+
+  #Daniel-Clifford1 {
+    margin: 0 0 10% 0;
+    display: block;
+  }
+
+  #Jonathan-Walters1 {
+    margin: 0 0 10% 0;
+    display: block;
+  }
+
+  #Kira-Whittle1 {
+    margin: 0 0 10% 0;
+    display: block;
+  }
+
+  #Jeanette-Harmon1 {
+    margin: 0 0 10% 0;
+    display: block;
+  }
+
+  #Patrick-Abrams1 {
+    margin: 0 0 10% 0;
+    display: block;
+  }
+
+  #daniel-img1 {
+    width: 56px;
+    border-radius: 50%;
+  }
+
+  #kira-img1 {
+    width: 56px;
+    border-radius: 50%;
+  }
+
+  #jeanette-img1 {
+    width: 56px;
+    border-radius: 50%;
+  }
+
+  #patrick-img1 {
+    width: 56px;
+    border-radius: 50%;
+  }
+
+  #jonathan-img1 {
+    width: 56px;
+    border-radius: 50%;
+  }
+
+  #name-id {
+    margin-top: 1em;
+    font-size: 140%;
+    align-items: center;
+  }
+
+  #name1-id {
+    margin-top: 1em;
+    font-size: 140%;
+    align-items: center;
+    padding-right: 1.25rem;
+  }
+
+  #verified-id {
+    font-size: large;
+  }
+
+  #verified1-id {
+    font-size: large;
+  }
+
+  #test-A-id {
+    display: block;
+  }
+
+  #test-A1-id {
+    display: block;
+  }
+
+  #test1-id {
+    display: block;
+  }
+
+  #test2-id {
+    display: block;
+  }
+
+  #design-id {
+    position: absolute;
+    margin-left: 35%;
+  }
+}
+
+.p-2 {
+  font-size: larger;
+  color: hsl(210, 46%, 95%);
+}
+
+.p-2o {
+  font-size: larger;
+  color: black;
+  opacity: 60%;
+}
+
+.p-3 {
+  font-size: small;
+  line-height: 1.2rem;
+  margin: 0;
+  color: hsl(210, 46%, 95%);
+}
+
+.p-3o {
+  font-size: small;
+  line-height: 1.2rem;
+  margin: 0;
+  color: black;
+  opacity: 50%;
+}
+
+.name {
+  margin-top: 1em;
+  align-items: center;
+  color: hsl(210, 46%, 95%);
+}
+
+.nameo {
+  margin-top: 1em;
+  align-items: center;
+  color: black;
+  opacity: 60%
+}
+
+.name1 {
+  margin-top: 1em;
+  font-size: 14px;
+  align-items: center;
+  padding-right: 1.48rem;
+  color: hsl(210, 46%, 95%);
+}
+
+.name1o {
+  margin-top: 1em;
+  font-size: 14px;
+  align-items: center;
+  padding-right: 1.48rem;
+  color: black;
+  opacity: 60%;
+}
+
+.verified {
+  align-items: center;
+  font-size: small;
+  opacity: 50%;
+  color: hsl(210, 46%, 95%);
+}
+
+.verifiedo {
+  align-items: center;
+  font-size: small;
+  opacity: 50%;
+  color: black;
+}
+
+.verified1 {
+  align-items: center;
+  font-size: small;
+  padding-right: 1.2rem;
+  opacity: 50%;
+  color: hsl(210, 46%, 95%);
+}
+
+.verified1o {
+  align-items: center;
+  font-size: small;
+  padding-right: 1.2rem;
+  opacity: 50%;
+  color: black;
+}
+
+.test-A {
+  display: grid;
+  grid-template-columns: 70% 25%;
+  gap: 1rem;
+}
+
+.test-A1 {
+  display: grid;
+  gap: 1rem;
+}
+
+.test1 {
+  display: grid;
+  grid-template-columns: 70% 30%;
+  gap: 1rem;
+}
+
+.test2 {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  gap: 1rem;
+}
+
+.design {
+  position: absolute;
+  margin-left: 25%;
+  opacity: 40%;
+}
+
+/***********************Daniel-Clifford***************************************/
+.Daniel-Clifford {
+  background-color: hsl(263, 55%, 52%);
+  ;
+  border-radius: 10px;
+  padding: 1.25rem;
+}
+
+.daniel-img {
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #bc6ff1;
+  margin-right: .94rem;
+  margin-top: 1.4rem;
+  width: 30px;
+}
+
+.Daniel-Clifford-sub1 {
+  margin: 0;
+  display: inline-block;
+}
+
+.Daniel-Clifford-sub2 {
+  margin: 0;
+  display: inline-block;
+}
+
+.Daniel-Clifford-sub3 {
+  display: inline-block;
+  margin: 0;
+  padding-top: 0;
+}
+
+/**************Jonathan-Walters*****************/
+.Jonathan-Walters {
+  background-color: hsl(217, 19%, 35%);
+  border-radius: 10px;
+  padding: 1.25rem;
+  display: block;
+}
+
+.jonathan-img {
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #eeeded;
+  margin-right: 0.94rem;
+  margin-top: 1.4rem;
+  width: 30px;
+}
+
+.Jonathan-Walters-sub1 {
+  margin: 0;
+  display: block;
+}
+
+.Jonathan-Walters-sub2 {
+  margin: 0;
+  display: block;
+}
+
+.Jonathan-Walters-sub3 {
+  display: inline-block;
+  margin: 0;
+  padding-top: 0;
+}
+
+/***********************Kira-Whittle***************************************/
+.Kira-Whittle {
+  background-color: white;
+  border-radius: 10px;
+  padding: 1.25rem;
+  display: block;
+  margin-left: 1rem
+}
+
+.kira-img {
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #eeeded;
+  margin-right: 0.94rem;
+  margin-top: 1.4rem;
+  width: 30px;
+}
+
+.Kira-Whittle-sub1 {
+  margin: 0;
+  display: block;
+}
+
+.Kira-Whittle-sub2 {
+  margin: 0;
+  display: block;
+}
+
+.Kira-Whittle-sub3 {
+  display: block;
+  margin: 0;
+  padding-top: 0;
+}
+
+/***********************Jeanette-Harmon***************************************/
+.Jeanette-Harmon {
+  background-color: white;
+  border-radius: 10px;
+  padding: 1.25rem;
+  display: block;
+}
+
+.jeanette-img {
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #eeeded;
+  margin-right: 0.94rem;
+  margin-top: 1.4rem;
+  width: 30px;
+}
+
+.Jeanette-Harmon-sub1 {
+  margin: 0;
+  display: block;
+}
+
+.Jeanette-Harmon-sub2 {
+  margin: 0;
+  display: block;
+}
+
+.Jeanette-Harmon-sub3 {
+  display: block;
+  margin: 0;
+  padding-top: 0;
+}
+
+/***********************Patrick-Abrams***************************************/
+.Patrick-Abrams {
+  background-color: black;
+  border-radius: 10px;
+  padding: 1.25rem;
+  color: white;
+  display: block;
+}
+
+.patrick-img {
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #eeeded;
+  margin-right: 0.94rem;
+  margin-top: 1.4rem;
+  width: 30px;
+}
+
+.Patrick-Abrams-sub1 {
+  margin: 0;
+  display: block;
+}
+
+.Patrick-Abrams-sub2 {
+  margin: 0;
+  display: block;
+}
+
+.Patrick-Abrams-sub3 {
+  display: inline-block;
+  margin: 0;
+  padding-top: 0;
+}
